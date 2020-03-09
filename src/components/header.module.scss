@@ -1,0 +1,31 @@
+.header {
+    padding: 1rem 0 3rem;
+}
+
+.logo {
+    font-size: 3rem;
+    text-decoration: none;
+    color: red;
+
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+}
+
+.nav-item {
+    color: red;
+    font-size: .9rem;
+    margin-right: 1.3rem;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    color: blue;
+}
+
+.nav-item-active {
+    color: blueviolet;
+}
